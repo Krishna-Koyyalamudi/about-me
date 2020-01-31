@@ -1,1 +1,11 @@
-Sample Text to make an initial push
+Krishna Sumanth Koyyalamudi - Section 02 - Dr. Denise Case
+
+I am a fresher from spring 2020 working on my Masters of Applied Computer Science.
+
+I am from a town called Rajahmundry located in the southern part of India. I have completed my under-graduation in 2018 from Lovely Professional University (India) with majors in Electronics and Communication which is pretty much close to computers. I also worked on fundamentals of robotics as part of my honors specialization. I chose Entrepreneurship as my elective as I have a lot of interest in Startups and Business Establishments.
+
+I am passionate about Virtual Reality and Augmented Reality development and I hope to work in that field some day. I want to get familiar with other top technologies and am excited to learn about experimental technologies like AI and Quantum Computing although they were not yet fully evolved.
+
+I am an avid follower of latest technology news & trends.
+
+My LinkedIn Profile: https://www.linkedin.com/in/krishna-sumanth-koyyalamudi-258117138/ 
