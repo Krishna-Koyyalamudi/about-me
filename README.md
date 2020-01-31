@@ -15,3 +15,8 @@ This repo is created as the first step in building a full-fledged webpage with d
 
 Following are the Tools and Languages requires to publish a repo with GitHub Pages:
 
+# Tools
+
+1. [GitHub Account](https://github.com/) : A developer needs to create a github account inorder to create and work repos.
+
+2. 
