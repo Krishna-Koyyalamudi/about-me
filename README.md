@@ -13,3 +13,5 @@ This repo is created as the first step in building a full-fledged webpage with d
 
 ## Recommended Tools
 
+Following are the Tools and Languages requires to publish a repo with GitHub Pages:
+
