@@ -1,5 +1,8 @@
 # Krishna Sumanth Koyyalamudi
 
-Developer Site
+A student of Applied Computer Science at Northwest Missouri State University.
 
-## Krishna Sumanth
+## Repository Links
+
+
+
