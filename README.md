@@ -39,3 +39,11 @@ Following are the Tools and Languages requires to publish a repo with GitHub Pag
 
 ## Recommended Resources
 
+1. [DevDocs](https://devdocs.io/)
+
+2. [MDN(Mozilla Developer Network) Web Docs](https://developer.mozilla.org/docs/Web/Reference)
+
+3. [Stack Overflow](https://stackoverflow/)
+
+4. [CommonMark](https://commonmark.org/)
+
