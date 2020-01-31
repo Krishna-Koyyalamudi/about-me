@@ -19,4 +19,6 @@ Following are the Tools and Languages requires to publish a repo with GitHub Pag
 
 1. [GitHub Account](https://github.com/) : A developer needs to create a github account inorder to create and work repos.
 
-2. 
+2. [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/) : Visual Studio is an IDE developed by Microsoft for development in multiple filetypes and systems.
+
+3. 
