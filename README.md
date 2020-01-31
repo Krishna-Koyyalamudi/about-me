@@ -51,4 +51,8 @@ Following are the Tools and Languages requires to publish a repo with GitHub Pag
 
 Krishna Sumanth Koyyalamudi
 
-MS in Applied 
+MS in Applied Computer Science
+
+![Lost](https://cdn.everydaypower.com/wp-content/uploads/2018/09/stay-on-your-path.jpg)
+
+image source: https://everydaypower.com/meaningful-quotes/
