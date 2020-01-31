@@ -28,3 +28,12 @@ Following are the Tools and Languages requires to publish a repo with GitHub Pag
 5. [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 # Languages
+
+1. Markdown
+
+2. HTML
+
+3. CSS
+
+4. JavaScript (Js)
+
