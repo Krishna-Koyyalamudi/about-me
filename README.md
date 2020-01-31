@@ -21,4 +21,9 @@ Following are the Tools and Languages requires to publish a repo with GitHub Pag
 
 2. [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/) : Visual Studio is an IDE developed by Microsoft for development in multiple filetypes and systems.
 
-3. 
+3. [TortoiseGit](https://tortoisegit.org/)
+
+4. [Notepad++](https://notepad-plus-plus.org/)
+
+5. [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
