@@ -15,7 +15,7 @@ This repo is created as the first step in building a full-fledged webpage with d
 
 Following are the Tools and Languages requires to publish a repo with GitHub Pages:
 
-# Tools
+### Tools
 
 1. [GitHub Account](https://github.com/) : A developer needs to create a github account inorder to create and work repos.
 
@@ -27,7 +27,7 @@ Following are the Tools and Languages requires to publish a repo with GitHub Pag
 
 5. [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-# Programming Languages
+### Programming Languages
 
 1. Markdown
 
